@@ -238,3 +238,6 @@ This repository serves as the official landing page for Need for Speed Undergrou
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Need for Speed Underground 2 today!**
+
+---
+**Last updated:** 2026-09-11 18:21:40 UTC
