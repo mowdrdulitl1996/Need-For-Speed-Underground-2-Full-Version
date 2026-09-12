@@ -240,4 +240,4 @@ This repository serves as the official landing page for Need for Speed Undergrou
 **Get the most recent version of Need for Speed Underground 2 today!**
 
 ---
-**Last updated:** 2026-09-11 21:39:20 UTC
+**Last updated:** 2026-09-12 00:04:53 UTC
